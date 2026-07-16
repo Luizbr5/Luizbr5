@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Luiz Henrique 🚀</h2>
+<h1 data-importer="text" align="center">Luiz Henrique 🚀</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Olá, eu sou o Luiz!</h3>
+<h3 data-importer="text" align="center">👋 Olá, eu sou o Luiz!</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">tecnologias</h1>
+<h1 data-importer="text" align="center">🛠️Tecnologias</h1>
 
 ###
 
@@ -49,3 +49,4 @@
 </div>
 
 ###
+<h1 data-importer="text" align="center">Me subestime, vai ser divertido.</h1>
