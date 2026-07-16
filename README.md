@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="center">Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack**.<br><br>Atuo com **React, Next.js, Node.js, TypeScript e PostgreSQL**, desenvolvendo aplicações modernas e escaláveis.<br><br>Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, Docker e Arquitetura de Software**.<br><br>Acredito que a melhor forma de evoluir é construindo projetos, compartilhando conhecimento e aprendendo continuamente. 🚀</p>
+<p data-importer="text" align="center">Sou estudante de <strong>Engenharia de Software</strong> e desenvolvedor <strong>Full Stack</strong>.<br><br>Atuo com <strong>React, Next.js, Node.js, TypeScript e PostgreSQL</strong>, desenvolvendo aplicações modernas e escaláveis.<br><br>Atualmente estou aprofundando meus conhecimentos em <strong>JavaScript, Spring Boot, Docker e Arquitetura de Software</strong>.<br><br>Acredito que a melhor forma de evoluir é construindo projetos, compartilhando conhecimento e aprendendo continuamente. 🚀</p>
 
 ###
 
